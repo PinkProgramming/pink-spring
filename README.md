@@ -2,9 +2,9 @@
 
 ## Checklist
 - sit by operating system 
-- [java](docs/java.md)    
+- [java](https://github.com/PinkProgramming/general-setup/blob/master/java.md)    
 ```java --version```  
-- [maven](docs/maven.md)   
+- [maven](https://github.com/PinkProgramming/general-setup/blob/master/java_maven.md)   
 ```mvn -v```
 - [IntelliJ](https://www.jetbrains.com/idea/download) 
 
