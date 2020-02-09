@@ -21,6 +21,19 @@ https://spring.io/guides/gs/rest-service/#scratch
 ## Reference code
 https://github.com/spring-guides/gs-rest-service/tree/master/complete
 
+## Encrypt or decrypt messages API
+Let's make this more exciting! Implement one of the algorithms below!
+
+### Simple - Caesar cipher
+https://en.wikipedia.org/wiki/Caesar_cipher
+
+### Medium - Simple Substitution cipher
+https://en.wikipedia.org/wiki/Substitution_cipher
+
+
+## More on classical ciphers
+https://en.wikipedia.org/wiki/Classical_cipher
+
 ## Links
 http://localhost:8080/greeting
 http://localhost:8080/greeting?name=Kate
@@ -49,16 +62,3 @@ curl -i \
 -H "Content-Type:application/json" \
 -X POST --data '{"text": "wklv lv d whvw", "offset": 3}' "http://localhost:8080/cesar/decode"
 ```
-
-## Encrypt or decrypt messages API
-Let's make this more exciting! Implement one of the algorithms below!
-
-### Simple - Caesar cipher
-https://en.wikipedia.org/wiki/Caesar_cipher
-
-### Medium - Simple Substitution cipher
-https://en.wikipedia.org/wiki/Substitution_cipher
-
-
-## More on classical ciphers
-https://en.wikipedia.org/wiki/Classical_cipher
